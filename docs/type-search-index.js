@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"countDownTimer","l":"CountdownTimer"},{"p":"countDownTimer","l":"Timer"}];updateSearchResults();
